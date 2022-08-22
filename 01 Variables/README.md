@@ -20,7 +20,7 @@
 
 2. **<ins>Block Scope</ins>:** A variable declared ***inside*** a **block**. This means we can use these variables inside of loops, if statements, or other declarations within ***curly*** brackets and have them be only used for that declaration instead of the entire application having access to it.
 
-## Examples:
+## [Examples](https://github.com/ShubhamJagtap2000/JavaScript-Basics/tree/main/01%20Variables/Examples):
 
 ```
 var variableOne = 'Linus Torvalds';
