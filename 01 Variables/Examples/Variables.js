@@ -3,7 +3,7 @@
 //Can be re-assigned
 var variableOne = 'Linus Torvalds';
 
-//Can be updated & re-declared
+//Can be updated and re-declared
 let variableTwo = 50;
 
 //Will never change
