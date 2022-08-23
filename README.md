@@ -20,4 +20,5 @@
 **[10. DOM](https://github.com/ShubhamJagtap2000/JavaScript-Basics/tree/main/10%20DOM)**<br>
 **[11. XSS](https://github.com/ShubhamJagtap2000/JavaScript-Basics/tree/main/11%20XSS)**<br>
 **[12. Resources](https://github.com/ShubhamJagtap2000/JavaScript-Basics/tree/main/12%20Important%20Resources)**<br>
-**[13. QnA](https://github.com/ShubhamJagtap2000/JavaScript-Basics/tree/main/13%20Rooms%20QnA)**
+**[13. QnA](https://github.com/ShubhamJagtap2000/JavaScript-Basics/tree/main/13%20Rooms%20QnA)**<br>
+**[14. Next Steps](https://github.com/ShubhamJagtap2000/JavaScript-Basics/tree/main/14%20Next%20Steps)**
