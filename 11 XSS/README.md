@@ -30,4 +30,8 @@
 
 - This is when a malicious script is ***directly*** injected into the webpage or web application. This type originates from the `website's database`.
 
+#
 
+# Next Steps
+
+- To learn more about XSS exploitation, detection and how to prevent it, go to **[Next Steps](https://github.com/ShubhamJagtap2000/JavaScript-Basics/tree/main/14%20Next%20Steps)**
