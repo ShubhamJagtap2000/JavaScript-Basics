@@ -33,3 +33,9 @@ document.getElementByTagName('Name_of_Tag'); // Grabs a specific tag name from t
 - The Document Object Model (DOM) has a ton of resources, and combining that with CSS will help your webpage POP. 
 
 - Eventually, if you take on web development or front-end programming, then you'll not only gain knowledge around the `DOM`, but you'll be able to manipulate a virtual DOM using React, cut your code in half using jQuery, and even combine your skills with PHP or Nodejs files for server manipulation.
+
+#
+
+# Next Steps
+
+- To learn more about XSS exploitation, detection and how to prevent it, go to **[Next Steps](https://github.com/ShubhamJagtap2000/JavaScript-Basics/tree/main/14%20Next%20Steps)**
