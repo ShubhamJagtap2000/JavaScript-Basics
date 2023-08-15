@@ -1,4 +1,4 @@
-# Document Objeect Model
+# Document Object Model
 
 - Here is what we will be covering in the DOM section (keep in mind that these are just a few lines of code, DOM manipulation is a vast subject):
 ```
